@@ -1,0 +1,7 @@
+C:\Users\tu dinh\Documents\GitHub\cis3342-Final-Project\TPcis3342\FaceBookHelper\bin\Debug\FaceBookHelper.dll
+C:\Users\tu dinh\Documents\GitHub\cis3342-Final-Project\TPcis3342\FaceBookHelper\bin\Debug\FaceBookHelper.pdb
+C:\Users\tu dinh\Documents\GitHub\cis3342-Final-Project\TPcis3342\FaceBookHelper\bin\Debug\Utilities.dll
+C:\Users\tu dinh\Documents\GitHub\cis3342-Final-Project\TPcis3342\FaceBookHelper\bin\Debug\Utilities.pdb
+C:\Users\tu dinh\Documents\GitHub\cis3342-Final-Project\TPcis3342\FaceBookHelper\obj\Debug\FaceBookHelper.csprojResolveAssemblyReference.cache
+C:\Users\tu dinh\Documents\GitHub\cis3342-Final-Project\TPcis3342\FaceBookHelper\obj\Debug\FaceBookHelper.dll
+C:\Users\tu dinh\Documents\GitHub\cis3342-Final-Project\TPcis3342\FaceBookHelper\obj\Debug\FaceBookHelper.pdb
