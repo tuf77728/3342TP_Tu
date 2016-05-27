@@ -12,7 +12,7 @@ using Utilities;
 namespace FaceBookHelper
 {
     public class SerializeAndDeserializing
-    {
+    {//yes
         DBConnect objDB = new DBConnect();//using Utilities;
         SqlCommand objCommand = new SqlCommand();//using System.Data.SqlClient;
 
